@@ -1,16 +1,15 @@
 ### Hi, I'm Vladyslav Sirenko 👋
 
-Aspiring SOC-Analyst building hands-on skills through home labs
+Aspiring IAM-Analyst building hands-on skills through home labs
 and documented projects. 
 Currently studying for Google Cybersecurity Certificate.
 
-🔍 **Currently focused on:** SOC Detection Engineering
+🔍 **Currently focused on:** Access Control Models (RBAC, ABAC, Least Privilege)
 
-🛠️ **Tools I work with:** SQL, Python, PowerShell
+🛠️ **Tools I work with:** Active Directory, Jira, SQL, PowerShell
 
 📂 **Featured Projects:**
 - [Project 1 Name](link) — one-line description
-- [Project 2 Name](link) — one-line description
-- [Project 3 Name](link) — one-line description
+
 
 📬 **Let's connect:** https://www.linkedin.com/in/vladyslavsirenko/
