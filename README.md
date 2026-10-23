@@ -9,6 +9,5 @@ Currently studying for Google Cybersecurity Certificate.
 🛠️ **Tools I work with:** Entra ID, Active Directory, Jira, SQL, PowerShell
 
 📂 **Featured Projects:**
-- [Project 1 Name](link) — one-line description
-
+- [IAM-Security-Lab]([link](https://github.com/vladyslavsirenko/IAM-Security-Lab)) — building my IAM portfolio from scratch.
 📬 **Let's connect:** https://www.linkedin.com/in/vladyslavsirenko/
