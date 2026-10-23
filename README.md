@@ -3,7 +3,7 @@
 Aspiring IAM-Analyst building hands-on skills through home labs
 and documented projects. 
 
-Currently studying for *"Google Cybersecurity Professional certificate" (Coursera)
+Currently studying for "Google Cybersecurity Professional certificate" (Coursera)
 
 🔍 **Yet focused on:**   `Access Control Models (RBAC, ABAC, Least Privilege)`  
 
