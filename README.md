@@ -3,9 +3,9 @@
 Aspiring IAM-Analyst building hands-on skills through home labs
 and documented projects. 
 
-Currently studying for *Google Cybersecurity Certificate.*
+Currently studying for *"Google Cybersecurity Professional certificate" (Coursera)
 
-🔍 **Currently focused on:**   `Access Control Models (RBAC, ABAC, Least Privilege)`  
+🔍 **Yet focused on:**   `Access Control Models (RBAC, ABAC, Least Privilege)`  
 
 🛠️ **Tools I work with:** `Entra ID, Active Directory, Jira, SQL, PowerShell`
 
