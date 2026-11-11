@@ -5,9 +5,9 @@ and documented projects.
 
 Currently studying for *"Google Cybersecurity Professional"* certificate (Coursera)
 
-🔍 **Yet focused on:**   `Access Control Models (RBAC, ABAC, Least Privilege)`  
+🔍 **Yet focused on:**   `Active Directory, VirtualBox, PowerShell, Joiner, Mover and Leaver Lifecycle`  
 
-🛠️ **Tools I work with:** `Entra ID, Active Directory, Jira, SQL, PowerShell`
+🛠️ **Tools I work with:** `Entra ID, Active Directory, Microsoft 365, Jira, PowerShell`
 
 --- 
 
